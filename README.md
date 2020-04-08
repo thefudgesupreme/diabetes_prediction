@@ -1,6 +1,7 @@
 This is a machine learning based Diebetes Prediction Project.
 
 Goal : "Predict if a  person will develop diabetes"
+
 Solution Statement : "Use the Machine Learning Workflow to process & transform Pima Indian data to create a prediction model.This model must predict which people are likely to develop diabetes with 70% or greater accuracy"
 
 Algorithm Used : 1.Naive bayes
